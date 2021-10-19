@@ -30,8 +30,9 @@ td:first-child {
     background-color: rgb(197, 170, 50);
 }
 
-.tajuk td, h1 {
+.tajuk td:hover, h1 {
     color: rgb(44, 53, 90);
+    cursor: pointer;
 }
 
 form {
